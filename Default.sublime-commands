@@ -1,0 +1,30 @@
+[
+    {
+        "caption": "Yeoman: Create Angular Project",
+        "command": "angular"
+    },
+    {
+        "caption": "Yeoman: Create Angular Controller",
+        "command": "angular_controller"
+    },
+    {
+        "caption": "Yeoman: Create Angular Directive",
+        "command": "angular_directive"
+    },
+    {
+        "caption": "Yeoman: Create Angular Filter",
+        "command": "angular_filter"
+    },
+    {
+        "caption": "Yeoman: Create Angular Route",
+        "command": "angular_route"
+    },
+    {
+        "caption": "Yeoman: Create Angular Service",
+        "command": "angular_service"
+    },
+    {
+        "caption": "Yeoman: Create Angular View",
+        "command": "angular_view"
+    }
+]
