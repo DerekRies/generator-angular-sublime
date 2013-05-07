@@ -4,7 +4,6 @@ import subprocess
 import os
 import errno
 import threading
-import time
 
 # from Queue import Queue, Empty
 
