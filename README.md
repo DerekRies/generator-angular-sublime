@@ -4,6 +4,8 @@ This is a Sublime Text 2 plugin that supports the features provided by the gener
 
 This is just something I hacked together because I was getting a little fatigued by the experience described above. It only supports the scaffolding commands once the app has already been created at the moment. Should have the ability to create new angular apps from sublime soon as well.
 
+![Generator-Angular-Sublime in action](/angularsublime.gif)
+
 ### Usage
 
 At the moment the plugin expects your project to be the first folder in your sidebar, this is the folder that generator-angular will be manipulating.
